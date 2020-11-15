@@ -2,7 +2,9 @@
 The submission from Team Monke for the NetSoc Hackathon, November 2020.
 
 Credited Code:
+
 Leaderboard scripts: https://github.com/SebLague/Dreamlo-Highscores
+
 Tutorial used as rough basis for quiz: https://www.youtube.com/watch?v=zLnnpUsxu0U
 
 My leaderboard scripts are from a YouTube video by Seb Lague, and I have credited his Github. Looking up "Dreamlo Leaderboard" on YouTube will bring you to his videos.
